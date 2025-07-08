@@ -59,12 +59,11 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 
 ## Proyek / Bukti Pekerjaan
 
-Bagian ini adalah *tempat Anda bisa menampilkan bukti nyata*. Karena sifat pekerjaan NOC Helpdesk yang sensitif, Anda tidak bisa membagikan data riil. Namun, Anda bisa membuat contoh atau simulasi:
-
-* **Studi Kasus Penanganan Insiden (Anonim):**
-    * Contoh alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian (tanpa data sensitif).
-    * Deskripsikan masalah (dibuat generik), langkah *troubleshooting* yang Anda lakukan, dan hasil akhirnya.
+* **Dashboard Sistem Tiket ICRM+:**
+    * alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian
     * ![Tampilan ICRM+](assets/tampilanICRM.png)
+    * ![Tampilan ICRM+](assets/isitiket.png)
+    * ![Tampilan ICRM+](assets/createtiket.png)
 * **Contoh Laporan Harian/Mingguan (Template):**
     * Tunjukkan template laporan harian atau mingguan yang biasa Anda buat, dengan data contoh (bukan data riil).
     * Ini menunjukkan kemampuan Anda dalam dokumentasi dan pelaporan.
@@ -79,3 +78,4 @@ Jika Anda tertarik untuk berdiskusi lebih lanjut mengenai pengalaman saya, janga
 
 * **LinkedIn:** [https://www.linkedin.com/in/tiar-firman-syah-4b2706297/]
 * **Email:** [tiarfirmansss@gmail.com]
+
