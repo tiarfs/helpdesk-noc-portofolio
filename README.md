@@ -45,7 +45,6 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 * **Sistem Ticketing:** ICRM+
 * **Konsep Jaringan:** OSI Layer, TCP/IP, dasar-dasar *routing* dan *switching*.
 * **Perangkat Jaringan:** BDCOM, Fiberhome, Zyxel, Cisco ASR920 .
-* **Command Line Interface (CLI):** Penggunaan dasar CMD untuk administrasi jaringan.
 * **Troubleshooting:** Identifikasi masalah, validasi, eskalasi insiden.
 * **Dokumentasi:** Pembuatan laporan insiden, log aktivitas.
 
@@ -59,18 +58,17 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 
 ## Proyek / Bukti Pekerjaan
 
-* **Dashboard Sistem Tiket ICRM+:**
-    * alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian
+* **Sistem Ticketing ICRM+:**
+    * Alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian
     * ![Tampilan ICRM+](assets/tampilanICRM.png)
     * ![Tampilan ICRM+](assets/isitiket.png)
     * ![Tampilan ICRM+](assets/createtiket.png)
-* **Contoh Laporan Harian/Mingguan (Template):**
-    * Tunjukkan template laporan harian atau mingguan yang biasa Anda buat, dengan data contoh (bukan data riil).
-    * Ini menunjukkan kemampuan Anda dalam dokumentasi dan pelaporan.
-    * [Link ke `assets/contoh_laporan_harian.pdf`] (Jika Anda membuat template ini)
-* **Dokumentasi SOP/Flowchart (Contoh):**
-    * Anda bisa membuat contoh diagram alur eskalasi insiden atau ringkasan SOP *troubleshooting* dasar yang Anda pahami dan terapkan.
-    * [Link ke `documentation/alur_eskalasi_insiden.md`] (Jika Anda membuatnya)
+    * ![Tampilan ICRM+](assets/close.png)
+* **Laporan Harian Tiket Gangguan:**
+    * Laporan Gangguan Tiket Bulanan yang di rekap per hari
+    * ![Tampilan Laporan](assets/laporan.png)
+* **Sistem Monitoring:**
+
 
 ## Kontak
 
