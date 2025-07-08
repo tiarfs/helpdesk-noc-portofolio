@@ -64,7 +64,7 @@ Bagian ini adalah *tempat Anda bisa menampilkan bukti nyata*. Karena sifat peker
 * **Studi Kasus Penanganan Insiden (Anonim):**
     * Contoh alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian (tanpa data sensitif).
     * Deskripsikan masalah (dibuat generik), langkah *troubleshooting* yang Anda lakukan, dan hasil akhirnya.
-    * ![Tampilan ICRM+](assets/tampilanICRM.png.png)
+    * ![Tampilan ICRM+](assets/tampilanICRM.png)
 * **Contoh Laporan Harian/Mingguan (Template):**
     * Tunjukkan template laporan harian atau mingguan yang biasa Anda buat, dengan data contoh (bukan data riil).
     * Ini menunjukkan kemampuan Anda dalam dokumentasi dan pelaporan.
