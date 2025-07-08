@@ -76,15 +76,3 @@ Jika Anda tertarik untuk berdiskusi lebih lanjut mengenai pengalaman saya, janga
 
 * **LinkedIn:** [Link Profil LinkedIn Anda]
 * **Email:** [Alamat Email Anda]
-
----
-
-**Tips untuk Portofolio GitHub Anda:**
-
-1.  **Gunakan Screenshot (Anonim):** Jika memungkinkan, ambil *screenshot* dari antarmuka *tools monitoring* atau sistem *ticketing* (pastikan tidak ada data sensitif atau informasi pribadi yang terlihat). Anda bisa menandai atau mengaburkan bagian-bagian tertentu. Simpan di folder `assets/`.
-2.  **Buat Dokumen Contoh:** Tuliskan contoh laporan, alur kerja, atau studi kasus *troubleshooting* yang mencerminkan pekerjaan Anda, tetapi gunakan data fiktif atau umum. Ini menunjukkan pemahaman Anda tanpa melanggar kerahasiaan perusahaan.
-3.  **Konsisten:** Pastikan bahasa dan format di seluruh portofolio Anda konsisten.
-4.  **Update Berkala:** Jika Anda mendapatkan pengalaman atau keterampilan baru, perbarui portofolio Anda.
-5.  **Relevansi:** Sesuaikan isi portofolio dengan jenis pekerjaan yang ingin Anda lamar di masa depan.
-
-Dengan portofolio GitHub ini, Anda tidak hanya menunjukkan apa yang Anda lakukan, tetapi juga bagaimana Anda melakukannya, yang sangat berharga bagi perekrut atau calon atasan.# helpdesk-noc-portofolio
