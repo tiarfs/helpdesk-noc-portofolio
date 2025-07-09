@@ -1,5 +1,3 @@
-# Portofolio - Helpdesk NOC Specialist | Tiar Firman Syah 
-
 Halo! Selamat datang di portofolio saya yang mendokumentasikan pengalaman dan keterampilan saya sebagai **Helpdesk NOC (Network Operations Center) Specialist** di **PT PLN ICON+ SBU Jabar**.
 
 Saya adalah seorang profesional yang berdedikasi dalam menjaga ketersediaan dan kinerja layanan jaringan telekomunikasi. Dengan pengalaman saya di lingkungan NOC, saya berfokus pada respons cepat terhadap insiden, *troubleshooting* awal, eskalasi yang efektif, dan komunikasi yang transparan untuk memastikan operasional yang lancar. Saya memiliki kemampuan untuk bekerja secara mandiri maupun dalam tim , serta mengimplementasikan konsep dan teori teknis informatika untuk menyelesaikan permasalahan
