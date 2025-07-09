@@ -97,19 +97,19 @@ Pemantauan *real-time* adalah inti dari operasional NOC. Saya menggunakan berbag
 
 * **Monitoring Surveillance NMS Hariff Jabar:**
     ![Monitoring Surveillance](assets/surv.jpeg)
-    *Gambar: Tampilan sistem monitoring Surveillance NMS Hariff Jabar untuk overview status jaringan.*
+    *Gambar: Tampilan sistem monitoring Surveillance NMS Hariff Jabar.*
 * **Monitoring Surveillance NMS Sinergi Jabar:**
     ![Monitoring Sinergi](assets/sinergi.jpeg)
-    *Gambar: Tampilan sistem monitoring Surveillance NMS Sinergi Jabar untuk overview status jaringan.*
+    *Gambar: Tampilan sistem monitoring Surveillance NMS Sinergi Jabar.*
 * **Monitoring Scada Premium:**
     ![Monitoring Scada Premium](assets/scadapremium.jpeg)
-    *Gambar: Dashboard monitoring Scada Premium untuk pemantauan yang lebih mendalam.*
+    *Gambar: Tampilan Sistem Monitoring Scada Premium .*
 * **Monitoring Scada:**
     ![Monitoring Scada](assets/scada.jpeg)
-    *Gambar: Tampilan standar sistem monitoring Scada.*
+    *Gambar: Tampilan Sistem Monitoring Scada.*
 * **Monitoring GSM Scada:**
     ![Monitoring GSM](assets/gsm.jpeg)
-    *Gambar: Contoh tampilan monitoring GSM Scada.*
+    *Gambar: Tampilan Sistem Monitoring GSM Scada.*
 
 ### 4. Perangkat Jaringan yang Ditangani
 
