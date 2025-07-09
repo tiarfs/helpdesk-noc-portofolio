@@ -42,7 +42,7 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 ## Keterampilan Teknis
 
 * **Sistem Monitoring:** Zabbix, NMS Hariff, NMS Sinergi, Monitoring Scada.
-* **Sistem Ticketing:** ICRM+
+* **Sistem Tiketing:** ICRM+
 * **Konsep Jaringan:** OSI Layer, TCP/IP, dasar-dasar *routing* dan *switching*.
 * **Perangkat Jaringan:** BDCOM, Fiberhome, Zyxel, Cisco ASR920.
 * **Troubleshooting:** Identifikasi masalah, validasi, eskalasi insiden.
@@ -61,18 +61,25 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 * **Sistem Ticketing ICRM+:**
     * Alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian
     * ![Tampilan ICRM+](assets/tampilanICRM.png)
+    * Tiket Open
     * ![Tampilan Open Ticket](assets/open.jpeg)
+    * Proses Analisa Gangguan
     * ![Tampilan Analisa Gangguan](assets/analisa.jpeg)
+    * Proses Eskalasi Tiket kepada Tim Lapangan
     * ![Tampilan Eskalasi Ticket](assets/eskalasi.jpeg)
+    * Proses Closed Tiket setelah pengecekan Uplink / Downlink 
     * ![Tampilan Closed Tiket](assets/close.png)
 * **Laporan Bulanan Tiket Gangguan:**
     * Laporan Gangguan Tiket Bulanan yang di rekap per hari
     * ![Laporan Gangguan](assets/laporan.png)
 * **Sistem Monitoring:**
-* Monitoring Surveilence
+* Monitoring Surveilence NMS Jabar
 * ![Monitoring Surveillance](assets/surv.jpeg)
+* Monitoring Scada Premium
 * ![Monitoring Scada Premium](assets/scadapremium.jpeg)
+* Monitoring Scada
 * ![Monitoring Scada](assets/scada.jpeg)
+* Monitoring GSM Scada
 * ![Monitoring GSM](assets/gsm.jpeg)
 
 * **Perangkat Jaringan:**
