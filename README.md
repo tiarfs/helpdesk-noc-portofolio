@@ -133,5 +133,5 @@ Saya memiliki pengalaman dalam melakukan pengecekan dan konfigurasi dasar pada b
 Terima kasih telah mengunjungi portofolio saya! Jika Anda tertarik untuk berdiskusi lebih lanjut mengenai pengalaman dan keterampilan saya, jangan ragu untuk menghubungi saya:
 
 * **Nama:** Tiar Firman Syah
-* **LinkedIn:** [https://www.linkedin.com/in/tiar-firman-syah-4b2706297/]
+* **LinkedIn:** [https://www.linkedin.com/in/tiar-firman-syah-4b2706297/](https://www.linkedin.com/in/tiar-firman-syah-4b2706297/)
 * **Email:** tiarfirmansss@gmail.com
