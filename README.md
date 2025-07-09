@@ -44,7 +44,7 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 * **Sistem Monitoring:** Zabbix, NMS Hariff, NMS Sinergi, Monitoring Scada.
 * **Sistem Ticketing:** ICRM+
 * **Konsep Jaringan:** OSI Layer, TCP/IP, dasar-dasar *routing* dan *switching*.
-* **Perangkat Jaringan:** BDCOM, Fiberhome, Zyxel, Cisco ASR920 .
+* **Perangkat Jaringan:** BDCOM, Fiberhome, Zyxel, Cisco ASR920.
 * **Troubleshooting:** Identifikasi masalah, validasi, eskalasi insiden.
 * **Dokumentasi:** Pembuatan laporan insiden, log aktivitas.
 
@@ -61,13 +61,30 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
 * **Sistem Ticketing ICRM+:**
     * Alur tiket gangguan dari penerimaan hingga eskalasi/penyelesaian
     * ![Tampilan ICRM+](assets/tampilanICRM.png)
-    * ![Tampilan ICRM+](assets/isitiket.png)
-    * ![Tampilan ICRM+](assets/createtiket.png)
-    * ![Tampilan ICRM+](assets/close.png)
-* **Laporan Harian Tiket Gangguan:**
+    * ![Tampilan Open Ticket](assets/open.jpeg)
+    * ![Tampilan Analisa Gangguan](assets/analisa.jpeg)
+    * ![Tampilan Eskalasi Ticket](assets/eskalasi.jpeg)
+    * ![Tampilan Closed Tiket](assets/close.png)
+* **Laporan Bulanan Tiket Gangguan:**
     * Laporan Gangguan Tiket Bulanan yang di rekap per hari
-    * ![Tampilan Laporan](assets/laporan.png)
+    * ![Laporan Gangguan](assets/laporan.png)
 * **Sistem Monitoring:**
+* Monitoring Surveilence
+* ![Monitoring Surveillance](assets/surv.jpeg)
+* ![Monitoring Scada Premium](assets/scadapremium.jpeg)
+* ![Monitoring Scada](assets/scada.jpeg)
+* ![Monitoring GSM](assets/gsm.jpeg)
+
+* **Perangkat Jaringan:**
+* Pengecekan Uplink / Downlink di Perangkat Zyxel
+* ![Uplink Zyxel](assets/zyxel.jpeg)
+* Pengexekan Uplink / Downlink di Perangkat ASR920
+* ![Uplink ASR920](assets/asr.jpeg.jpeg)
+* Configurasi Perangkat BDCOM
+* ![BDCOM](assets/bdcom.jpeg)
+* Configurasi Perangkat Fiberhome
+* ![Fiberhome](assets/fh.jpeg.jpeg)
+
 
 
 ## Kontak
