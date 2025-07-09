@@ -86,7 +86,7 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
     * Pengecekan Uplink / Downlink di Perangkat Zyxel
     * ![Uplink Zyxel](assets/zyxel.jpeg)
     * Pengexekan Uplink / Downlink di Perangkat ASR920
-    * ![Uplink ASR920](assets/asr.jpeg.jpeg)
+    * ![Uplink ASR920](assets/asr.jpeg)
     * Configurasi Perangkat BDCOM
     * ![BDCOM](assets/bdcom.jpeg)
     * Configurasi Perangkat Fiberhome
