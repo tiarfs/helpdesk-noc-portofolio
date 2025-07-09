@@ -119,11 +119,9 @@ Saya memiliki pengalaman dalam melakukan pengecekan dan konfigurasi dasar pada b
     ![Uplink ASR920](assets/asr.jpeg)
     *Gambar: Pengecekan *uplink/downlink* pada perangkat Cisco ASR920.*
 * **Konfigurasi Perangkat BDCOM:**
-    ![BDCOM](assets/bdcom.jpeg)
-    *Gambar: Konfigurasi dasar pada perangkat BDCOM.*
+    ![BDCOM](assets/bdcom.jpeg) *Gambar: Konfigurasi dasar pada perangkat BDCOM.*
 * **Konfigurasi Perangkat Fiberhome:**
-    ![Fiberhome](assets/fh.jpeg)
-    *Gambar: Konfigurasi dasar pada perangkat Fiberhome.*
+    ![Fiberhome](assets/fh.jpeg)*Gambar: Konfigurasi dasar pada perangkat Fiberhome.*
 
 ## Kontak Saya
 
