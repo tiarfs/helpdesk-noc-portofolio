@@ -95,9 +95,10 @@ Membuat laporan gangguan tiket bulanan yang di rekap per hari.
 
 Pemantauan *real-time* adalah inti dari operasional NOC. Saya menggunakan berbagai *tools monitoring* untuk memastikan stabilitas jaringan.
 
-* **Monitoring Surveillance NMS Jabar:**
+* **Monitoring Surveillance NMS Hariff Jabar:**
     ![Monitoring Surveillance](assets/surv.jpeg)
     *Gambar: Tampilan sistem monitoring Surveillance NMS Hariff Jabar untuk overview status jaringan.*
+* **Monitoring Surveillance NMS Sinergi Jabar:**
     ![Monitoring Sinergi](assets/sinergi.jpeg)
     *Gambar: Tampilan sistem monitoring Surveillance NMS Sinergi Jabar untuk overview status jaringan.*
 * **Monitoring Scada Premium:**
