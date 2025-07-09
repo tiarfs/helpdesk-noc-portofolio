@@ -84,14 +84,14 @@ Saya bertanggung jawab penuh dalam siklus penanganan tiket, mulai dari penerimaa
         ![Tampilan Closed Tiket](assets/close.png)
         *Gambar: Tiket Close setelah verifikasi penyelesaian masalah.*
 
-### 2. Laporan Bulanan Tiket Gangguan 📈
+### 2. Laporan Bulanan Tiket Gangguan 
 
 Membuat laporan gangguan tiket bulanan yang di rekap per hari.
 
 ![Laporan Gangguan](assets/laporan.png)
 *Gambar: laporan bulanan tiket gangguan yang direkap per hari.*
 
-### 3. Sistem Monitoring Jaringan 👁️‍🗨️
+### 3. Sistem Monitoring Jaringan 
 
 Pemantauan *real-time* adalah inti dari operasional NOC. Saya menggunakan berbagai *tools monitoring* untuk memastikan stabilitas jaringan.
 
