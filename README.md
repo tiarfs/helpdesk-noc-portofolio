@@ -121,7 +121,8 @@ Saya memiliki pengalaman dalam melakukan pengecekan dan konfigurasi dasar pada b
 * **Konfigurasi Perangkat BDCOM:**
     ![BDCOM](assets/bdcom.jpeg) *Gambar: Konfigurasi dasar pada perangkat BDCOM.*
 * **Konfigurasi Perangkat Fiberhome:**
-    ![Fiberhome](assets/fh.jpeg)*Gambar: Konfigurasi dasar pada perangkat Fiberhome.*
+    ![Fiberhome](assets/fiberhome.jpeg)
+    *Gambar: Konfigurasi dasar pada perangkat Fiberhome.*
 
 ## Kontak Saya
 
