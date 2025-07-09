@@ -134,4 +134,4 @@ Terima kasih telah mengunjungi portofolio saya! Jika Anda tertarik untuk berdisk
 
 * **Nama:** Tiar Firman Syah
 * **LinkedIn:** [https://www.linkedin.com/in/tiar-firman-syah-4b2706297/](https://www.linkedin.com/in/tiar-firman-syah-4b2706297/)
-* **Email:** tiarfirmansss@gmail.com
+* **Email:** [tiarfirmansss@gmail.com](mailto:tiarfirmansss@gmail.com)
