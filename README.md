@@ -16,20 +16,18 @@ Sebagai Helpdesk NOC di PT PLN ICON+ SBU Jabar, peran utama saya adalah menjadi 
     * Memberikan nomor tiket kepada pelapor untuk tujuan pelacakan.
 
 2.  **Pemantauan & Analisis Awal Jaringan:**
-    * Melakukan pemantauan *real-time* status jaringan dan perangkat telekomunikasi menggunakan *tools* seperti **Zabbix, NMS Hariff, NMS Sinergi, dan Monitoring Scada**[cite: 22].
+    * Melakukan pemantauan *real-time* status jaringan dan perangkat telekomunikasi menggunakan *tools* seperti **Zabbix, NMS Hariff, NMS Sinergi, dan Monitoring Scada**.
     * Mengidentifikasi anomali dan *alert* dari sistem pemantauan.
     * Melakukan analisa dan *troubleshooting* awal permasalahan jaringan secara mandiri
 
 3.  **Troubleshooting Level 1:**
     * Melakukan investigasi dan *troubleshooting* awal terhadap insiden yang dilaporkan.
-    * Memiliki kemampuan mengimplementasikan pengetahuan yang dimiliki di tempat pelaksanaan kerja praktik.
     * Melakukan identifikasi, validasi, dan langkah-langkah *troubleshooting* awal sesuai **SOP Troubleshooting dan Eskalasi**
     * Melakukan **konfigurasi perangkat jaringan sederhana (BDCOM, Fiberhome)** sesuai instruksi dan SOP.
-    * Menggunakan **CMD** dalam administrasi jaringan (misalnya, *bypass* jaringan *user*)
 
 4.  **Eskalasi & Koordinasi Insiden:**
     * Mengevaluasi tingkat urgensi dan dampak insiden.
-    * Melakukan eskalasi insiden yang tidak dapat diselesaikan pada level 1 kepada tim teknis NOC atau tim terkait lainnya sesuai prosedur operasional standar (SOP)[cite: 16].
+    * Melakukan eskalasi insiden yang tidak dapat diselesaikan pada level 1 kepada tim teknis NOC atau tim terkait lainnya sesuai prosedur operasional standar (SOP).
     * **Berkoordinasi dengan tim NOC** dalam menyelesaikan masalah.
     * Memastikan informasi yang diperlukan untuk eskalasi disampaikan dengan jelas dan lengkap.
 
@@ -38,9 +36,9 @@ Sebagai Helpdesk NOC di PT PLN ICON+ SBU Jabar, peran utama saya adalah menjadi 
     * Memberikan pembaruan status secara berkala kepada pelapor (pelanggan/pengguna internal) mengenai progres penanganan insiden.
     * Mendokumentasikan **laporan/log sistem tiket (ICRM+)** dan log komunikasi di *platform* kerja (**WhatsApp, ICRM+**).
     * Membuat **laporan penyelesaian tiket gangguan secara mandiri**.
-    * Membuat **tiket harian**.
+    * Membuat **Laporan tiket harian**.
     * Membuat laporan dan melakukan evaluasi terkait penanganan insiden.
-    * Mencatat **log aktivitas sistem yang menunjukkan kontribusi individu** dalam menangani isu.
+
 
 ## Keterampilan Teknis
 
@@ -49,7 +47,7 @@ Sebagai Helpdesk NOC di PT PLN ICON+ SBU Jabar, peran utama saya adalah menjadi 
 * **Konsep Jaringan:** OSI Layer, TCP/IP, dasar-dasar *routing* dan *switching*.
 * **Perangkat Jaringan:** BDCOM, Fiberhome, Zyxel, Cisco ASR920.
 * **Troubleshooting:** Identifikasi masalah, validasi, eskalasi insiden.
-* **Dokumentasi:** Pembuatan laporan insiden, log aktivitas.
+* **Dokumentasi:** Pembuatan laporan insiden.
 * **CLI:** Penggunaan CMD dalam administrasi jaringan.
 
 ## Keterampilan Non-Teknis (Soft Skills)
@@ -63,35 +61,35 @@ Sebagai Helpdesk NOC di PT PLN ICON+ SBU Jabar, peran utama saya adalah menjadi 
 
 ## Proyek & Bukti Pekerjaan
 
-Berikut adalah visualisasi dari *tools* dan proses yang saya tangani sehari-hari sebagai Helpdesk NOC. *(Catatan: Semua gambar telah dianonimkan atau disimulasikan untuk menjaga kerahasiaan data perusahaan.)*
+Berikut adalah visualisasi dari *tools* dan proses yang saya tangani sehari-hari sebagai Helpdesk NOC.
 
 ### 1. Sistem Ticketing ICRM+
 
-Saya bertanggung jawab penuh dalam siklus penanganan tiket, mulai dari penerimaan laporan, pencatatan detail, hingga pelaporan penyelesaian menggunakan **ICRM+**.
+Saya bertanggung jawab penuh dalam siklus penanganan tiket, mulai dari penerimaan laporan Tiket, pencatatan detail, hingga pelaporan penyelesaian menggunakan **ICRM+**.
 
 * **Alur Tiket Gangguan dari Penerimaan hingga Eskalasi/Penyelesaian:**
     * **Tampilan ICRM+ (Dashboard Overview):**
         ![Tampilan ICRM+](assets/tampilanICRM.png)
-        *Gambaran umum dashboard ICRM+ untuk pemantauan tiket.*
+        *Gambaran: Dashboard ICRM+ untuk pemantauan tiket.*
     * **Tiket *Open* (Detail Tiket Baru):**
         ![Tampilan Open Ticket](assets/open.jpeg)
-        *Detail tiket yang baru dibuka dan siap untuk dianalisis.*
+        *Gambar: Detail tiket yang baru dibuka dan siap untuk dianalisis.*
     * **Proses Analisa Gangguan:**
         ![Tampilan Analisa Gangguan](assets/analisa.jpeg)
-        *Langkah-langkah analisa awal yang saya lakukan pada tiket gangguan.*
+        *Gambar: Langkah-langkah analisa awal yang saya lakukan pada tiket gangguan.*
     * **Proses Eskalasi Tiket kepada Tim Lapangan:**
         ![Tampilan Eskalasi Ticket](assets/eskalasi.jpeg)
-        *Proses eskalasi tiket ke tim lapangan setelah *troubleshooting* Level 1.*
+        *Gambar: Proses eskalasi tiket ke tim lapangan setelah *troubleshooting* Level 1.*
     * **Proses *Closed* Tiket setelah Pengecekan Uplink/Downlink:**
         ![Tampilan Closed Tiket](assets/close.png)
-        *Tiket Close setelah verifikasi penyelesaian masalah.*
+        *Gambar: Tiket Close setelah verifikasi penyelesaian masalah.*
 
 ### 2. Laporan Bulanan Tiket Gangguan 📈
 
 Membuat laporan gangguan tiket bulanan yang di rekap per hari.
 
 ![Laporan Gangguan](assets/laporan.png)
-*Gambar:laporan bulanan tiket gangguan yang direkap per hari.*
+*Gambar: laporan bulanan tiket gangguan yang direkap per hari.*
 
 ### 3. Sistem Monitoring Jaringan 👁️‍🗨️
 
@@ -122,15 +120,15 @@ Saya memiliki pengalaman dalam melakukan pengecekan dan konfigurasi dasar pada b
     *Gambar: Pengecekan *uplink/downlink* pada perangkat Cisco ASR920.*
 * **Konfigurasi Perangkat BDCOM:**
     ![BDCOM](assets/bdcom.jpeg)
-    *Gambar: Proses konfigurasi dasar pada perangkat BDCOM.*
+    *Gambar: Konfigurasi dasar pada perangkat BDCOM.*
 * **Konfigurasi Perangkat Fiberhome:**
     ![Fiberhome](assets/fh.jpeg)
-    *Gambar: Proses konfigurasi dasar pada perangkat Fiberhome.*
+    *Gambar: Konfigurasi dasar pada perangkat Fiberhome.*
 
 ## Kontak Saya
 
 Terima kasih telah mengunjungi portofolio saya! Jika Anda tertarik untuk berdiskusi lebih lanjut mengenai pengalaman dan keterampilan saya, jangan ragu untuk menghubungi saya:
 
 * **Nama:** Tiar Firman Syah
-* **LinkedIn:** [https://www.linkedin.com/in/tiar-firman-syah-4b2706297/](https://www.linkedin.com/in/tiar-firman-syah-4b2706297/)
+* **LinkedIn:** (https://www.linkedin.com/in/tiar-firman-syah-4b2706297/)
 * **Email:** tiarfirmansss@gmail.com
