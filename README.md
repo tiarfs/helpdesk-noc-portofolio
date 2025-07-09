@@ -73,24 +73,24 @@ Sebagai Helpdesk NOC, peran utama saya adalah menjadi titik kontak pertama untuk
     * Laporan Gangguan Tiket Bulanan yang di rekap per hari
     * ![Laporan Gangguan](assets/laporan.png)
 * **Sistem Monitoring:**
-* Monitoring Surveilence NMS Jabar
-* ![Monitoring Surveillance](assets/surv.jpeg)
-* Monitoring Scada Premium
-* ![Monitoring Scada Premium](assets/scadapremium.jpeg)
-* Monitoring Scada
-* ![Monitoring Scada](assets/scada.jpeg)
-* Monitoring GSM Scada
-* ![Monitoring GSM](assets/gsm.jpeg)
+    * Monitoring Surveilence NMS Jabar
+    * ![Monitoring Surveillance](assets/surv.jpeg)
+    * Monitoring Scada Premium
+    * ![Monitoring Scada Premium](assets/scadapremium.jpeg)
+    * Monitoring Scada
+    * ![Monitoring Scada](assets/scada.jpeg)
+    * Monitoring GSM Scada
+    * ![Monitoring GSM](assets/gsm.jpeg)
 
 * **Perangkat Jaringan:**
-* Pengecekan Uplink / Downlink di Perangkat Zyxel
-* ![Uplink Zyxel](assets/zyxel.jpeg)
-* Pengexekan Uplink / Downlink di Perangkat ASR920
-* ![Uplink ASR920](assets/asr.jpeg.jpeg)
-* Configurasi Perangkat BDCOM
-* ![BDCOM](assets/bdcom.jpeg)
-* Configurasi Perangkat Fiberhome
-* ![Fiberhome](assets/fh.jpeg.jpeg)
+    * Pengecekan Uplink / Downlink di Perangkat Zyxel
+    * ![Uplink Zyxel](assets/zyxel.jpeg)
+    * Pengexekan Uplink / Downlink di Perangkat ASR920
+    * ![Uplink ASR920](assets/asr.jpeg.jpeg)
+    * Configurasi Perangkat BDCOM
+    * ![BDCOM](assets/bdcom.jpeg)
+    * Configurasi Perangkat Fiberhome
+    * ![Fiberhome](assets/fh.jpeg)
 
 
 
